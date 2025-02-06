@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.13",
+	"apiVersion": 1,
+	"author": {
+		"id": "347199810392293376",
+		"name": "zeridiant"
+	},
+	"service": "HiAnime",
+	"description": {
+		"en": "HiAnime is a free anime streaming website where you can watch any anime for free!"
+	},
+	"url": "hianime.to",
+	"version": "1.0.0",
+	"logo": "https://cdn.discordapp.com/attachments/378081932723879937/1337045833337798697/favicon_1-1.png?ex=67a60477&is=67a4b2f7&hm=a82a3a39112165c50e86da3da8f7e066b102cc4e56aba9c1b509807b16d984e5&.png",
+	"thumbnail": "https://hianime.to/images/logo.png",
+	"color": "#FFC0CB",
+	"category": "anime",
+	"tags": [
+		"anime"
+	]
+}
